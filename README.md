@@ -1,1 +1,3 @@
 # sleepy
+一个测试window使用maven插件远程打包docker镜像的项目
+docker运行在virtualbox的centos中
